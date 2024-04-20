@@ -1,5 +1,6 @@
 # ParrotEdge
-"ParrotEdge" is learning management system (LMS) designed to adapt to the ever-growing technological world. Education has been more so been more virtual and more schools are adapting to this type of learning environment. Its user-friendly interface allows quick learning anywhere. Students can access and submit their assignments and be able to easily interact with their fellow classmates and educators with just a click on a button. Experience free and quality learning with ParrotEdge!
+"ParrotEdge" is a prototype learning management system (LMS) website designed and inspired by Anthology’s Blackboard Learn for virtual education. It includes basic features such as user interface, course management, content management, progress tracking, and security and privacy for both student and faculty users.
+It is a user-friendly LMS that creates an efficient virtual education environment providing learning materials, activity interactions, and grading progress reports.  
 
 # How to Run
 1. Download all the files.
